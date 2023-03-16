@@ -3,13 +3,5 @@
 version = 3
 
 [[package]]
-name = "ch10"
-version = "0.1.0"
-
-[[package]]
 name = "restaurant"
-version = "0.1.0"
-
-[[package]]
-name = "rust_practice"
 version = "0.1.0"

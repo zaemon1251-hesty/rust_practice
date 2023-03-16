@@ -1,11 +1,5 @@
-[workspace]
-members = [
-  "ch10",
-  "ch09"
-]
-
 [package]
-name = "rust_practice"
+name = "restaurant"
 version = "0.1.0"
 edition = "2021"
 

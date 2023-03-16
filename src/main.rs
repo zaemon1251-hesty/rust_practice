@@ -1,5 +1,6 @@
 pub mod ch05;
 pub mod ch06;
+pub mod ch08;
 
 #[allow(unused_imports)]
 use std;
@@ -32,6 +33,7 @@ fn main() {
     ch05::main();
 
     ch06::main();
+    ch08::main();
 }
 
 fn another_function() {
