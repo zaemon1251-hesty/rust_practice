@@ -1,12 +1,5 @@
-[workspace]
-members = [
-  "ch10",
-  "ch09",
-  "adder"
-]
-
 [package]
-name = "rust_practice"
+name = "adder"
 version = "0.1.0"
 edition = "2021"
 
